@@ -12,7 +12,7 @@
    -Delist a plant\
    -See the plant of the day\
    -Searh the light needs of a plant\
-   -View the app stats\
+   -View the app stats
   
 ## Project Screenshots
 ![cJEvU9y](https://github.com/dylankmoore/ExtraVert/assets/134669892/e3269889-a0c1-40ec-bb27-e8ed73f3f751)
