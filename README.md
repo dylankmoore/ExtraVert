@@ -5,7 +5,7 @@
 - The ideal user for this app is someone who loves plants and wants to browse, list, and adopt plants.
 
 ## Features
-- The user can see a main menu of options that allow a user to:
+- The user can see a main menu of options that allow a user to:\
    -Display a list of plants\
    -Add a plant\
    -Adopt a plant\
